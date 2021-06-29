@@ -25,6 +25,11 @@ body {
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.5);
 }
 
+.menu-navegacion a{
+    color: #fff;
+    text-decoration: none;
+}
+
 a{
 	font-family: open sans;
 }
@@ -165,9 +170,7 @@ html,body {
 	margin: 0;
 }
 
-a{
-	font-family: open sans;
-}
+
 
 
 .menu-icon {
