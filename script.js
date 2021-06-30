@@ -1,3 +1,5 @@
+document.getElementById("menu").style.zIndex = "0";
+
 Vue.config.devtools = true;
 
 Vue.component('card', {
