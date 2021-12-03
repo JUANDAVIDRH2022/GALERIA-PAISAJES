@@ -397,3 +397,7 @@ font-family: 'Gruppo', cursive;
 		min-width:100%
 	}
 }
+
+.hamburguer {
+	display: none;
+}
